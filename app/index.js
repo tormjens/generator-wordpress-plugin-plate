@@ -171,8 +171,6 @@ module.exports = yeoman.generators.Base.extend({
     writing: function () {
 
         this.mkdir('includes');
-        this.mkdir('tests/Unit');
-        this.mkdir('bin');
 
         this.fs.copy(
             this.templatePath('includes/gitkeep'),
