@@ -1,6 +1,6 @@
 {
   "name": "generator-wordpress-plugin-plate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yeoman (http://yeoman.io) generator for a WordPress plugin",
   "license": "MIT",
   "main": "app/index.js",
